@@ -42,7 +42,7 @@ a {
   margin: 2rem auto 0.5rem auto;
 }
 
-#subtitle {
+#subtitle, #byline {
   font-size: 2rem;
 }
 
