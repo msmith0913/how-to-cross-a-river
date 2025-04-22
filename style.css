@@ -1,4 +1,4 @@
-/* style.css contains the CSS of the page elements not related to scrollytelling */
+l/* style.css contains the CSS of the page elements not related to scrollytelling */
 
 
 * {
@@ -57,7 +57,7 @@ a {
 @media only screen and (max-width: 768px) {
   div {
     display: block;
-    background-color: orange;
+    background-color: yellow;
   }
 }
 
