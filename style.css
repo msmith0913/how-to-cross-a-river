@@ -50,6 +50,17 @@ a {
   font-size: 1.5rem;
 }
 
+#mobile-warning {
+  display: none;
+}
+
+@media only screen and (max-width: 768px) {
+  div {
+    display: block;
+    background-color: orange;
+  }
+}
+
 #outro {
   margin: 3rem;
   min-height: 640px;
