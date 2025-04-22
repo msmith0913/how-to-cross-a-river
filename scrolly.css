@@ -97,6 +97,12 @@ map {
   filter: drop-shadow(lightgray 1rem 1rem 10px);
 }
 
+@media only screen and (max-width: 768px) {
+  .step-content {
+  background-color: #caf6e9;
+  padding: 1rem;
+}
+
 .step:first-child {
   margin-top: 5rem;
 }
