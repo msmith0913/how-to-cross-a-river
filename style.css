@@ -57,7 +57,9 @@ a {
 @media only screen and (max-width: 768px) {
   #mobile-warning {
     display: block;
-    background-color: yellow;
+    border-style: solid;
+    border-color: orange;
+    border-radius: 8px;
   }
 }
 
