@@ -94,6 +94,7 @@ map {
 .step-content {
   padding: 1rem;
   filter: drop-shadow(lightgray 1rem 1rem 10px);
+  background-color: #caf6e9;
 }
 
 .step:first-child {
